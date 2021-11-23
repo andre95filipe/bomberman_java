@@ -1,0 +1,14 @@
+bomberman.game.activeelements
+bomberman.game.chat
+bomberman.game.elements
+bomberman.game.graphics
+bomberman.game.input
+bomberman.game.level
+bomberman.game.logic
+bomberman.game.powerups
+bomberman.game.tile
+bomberman.game.ui
+bomberman.main
+bomberman.menu.panels
+bomberman.sockets
+bomberman.sound

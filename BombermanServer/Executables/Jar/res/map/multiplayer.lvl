@@ -1,0 +1,40 @@
+0 19 19
+###################
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+# # # # # # # # # #
+#                 #
+###################
+
+Information to read the map correctly:
+
+First line - level, height, width
+
+Map Elements:
+# - Fixed Wall
+* - Destroyable Wall
+space - Grass
+x - Exit
+
+Active Elements:
+p - Player
+e - Enemy (balloom)
+
+Power Ups:
+c - ClockUp
+b - BombRange
+s - SpeedUp
+l - LifeUp
