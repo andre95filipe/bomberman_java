@@ -1,2 +1,2 @@
-# MainQuest
+# Bomberman in Java
 
