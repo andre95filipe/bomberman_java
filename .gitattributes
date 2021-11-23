@@ -1,0 +1,4 @@
+BombermanClient/Executables/Jar/res/sound/menu.wav filter=lfs diff=lfs merge=lfs -text
+BombermanClient/Executables/Exe/res/sound/menu.wav filter=lfs diff=lfs merge=lfs -text
+BombermanClient/Executables/Installer/bomberman-game-setup.exe filter=lfs diff=lfs merge=lfs -text
+BombermanClient/res/sound/menu.wav filter=lfs diff=lfs merge=lfs -text
